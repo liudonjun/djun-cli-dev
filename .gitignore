@@ -4,4 +4,3 @@ node_modules
 
 
 package/**/node_modules
-package/**/package-lock.json
