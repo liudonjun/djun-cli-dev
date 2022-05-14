@@ -1,0 +1,29 @@
+{
+  "name": "@djun-cli-dev/core",
+  "version": "1.0.0",
+  "description": "djun-cli-dev core",
+  "author": "Coder <3170495286@qq.com>",
+  "homepage": "https://github.com/liudonjun/djun-cli-dev#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "devDependencies": {
+    "@djun-cli-dev/utils": "^1.0.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudonjun/djun-cli-dev.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/liudonjun/djun-cli-dev/issues"
+  }
+}
