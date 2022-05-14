@@ -25,5 +25,9 @@
   },
   "bugs": {
     "url": "https://github.com/liudonjun/djun-cli-dev/issues"
+  },
+  "gitHead": "eb126d0b338f342d9823026137a8a5e5fdb587a9",
+  "publishConfig": {
+    "access": "public"
   }
 }
